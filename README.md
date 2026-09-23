@@ -38,15 +38,15 @@ That is the layer I like building: **signals -> scenarios -> trade-offs -> actio
 
 **Planning and network design**
 
-![SAP IBP](https://img.shields.io/badge/SAP_IBP-0FAAFF?style=flat-square&logo=sap&logoColor=white) ![E2open](https://img.shields.io/badge/E2open-5B4B8A?style=flat-square) ![Coupa SC Guru](https://img.shields.io/badge/Coupa_SC_Guru-2D7A6E?style=flat-square) ![NetSuite](https://img.shields.io/badge/NetSuite-7A8899?style=flat-square&logo=oracle&logoColor=white)
+[![SAP IBP](https://img.shields.io/badge/SAP_IBP-0FAAFF?style=flat-square&logo=sap&logoColor=white)](#decision-toolkit) [![E2open](https://img.shields.io/badge/E2open-5B4B8A?style=flat-square)](#decision-toolkit) [![Coupa SC Guru](https://img.shields.io/badge/Coupa_SC_Guru-2D7A6E?style=flat-square)](#decision-toolkit) [![NetSuite](https://img.shields.io/badge/NetSuite-7A8899?style=flat-square&logo=oracle&logoColor=white)](#decision-toolkit)
 
 **Optimization and analytics**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pyomo](https://img.shields.io/badge/Pyomo-C8922A?style=flat-square) ![HiGHS](https://img.shields.io/badge/HiGHS-9C6B3C?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-4A5F9E?style=flat-square&logo=postgresql&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=0F0F1A)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#decision-toolkit) [![Pyomo](https://img.shields.io/badge/Pyomo-C8922A?style=flat-square)](#decision-toolkit) [![HiGHS](https://img.shields.io/badge/HiGHS-9C6B3C?style=flat-square)](#decision-toolkit) [![SQL](https://img.shields.io/badge/SQL-4A5F9E?style=flat-square&logo=postgresql&logoColor=white)](#decision-toolkit) [![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)](#decision-toolkit) [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=0F0F1A)](#decision-toolkit)
 
 **Agentic systems and delivery**
 
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-0F0F1A?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Dash](https://img.shields.io/badge/Dash-1A1A1A?style=flat-square&logo=plotly&logoColor=white)
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)](#decision-toolkit) [![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-0F0F1A?style=flat-square)](#decision-toolkit) [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](#decision-toolkit) [![Dash](https://img.shields.io/badge/Dash-1A1A1A?style=flat-square&logo=plotly&logoColor=white)](#decision-toolkit)
 
 ## Foundations
 
